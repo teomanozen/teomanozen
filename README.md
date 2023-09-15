@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an under-graduate Mathematical Engineering student who is interested in both programming and music.
 
 <!--
 **teomanozen/teomanozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
